@@ -13,3 +13,7 @@ Parking into the city addressed a lot of problems association with educational i
 ## Poster 2
 
 ![](Poster/Poster2.jpg)
+
+## Preview of one of the Dashboard
+
+![](images/Screenshot%20(7).png)
